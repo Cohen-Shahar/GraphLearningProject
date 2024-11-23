@@ -23,6 +23,8 @@ MNIST Folder: Contains 3 notebooks corresponding to the three experiments.
 ## Running the Notebooks:
 The experiments were conducted using Google Colab (paid version). To reproduce the results:
 
-Open the notebook in Google Colab.
-Execute all code cells.
-To test different experiments or datasets, modify the dataset loading section and/or adjust the hyperparameters as needed.
+- Open the notebook in Google Colab.
+
+- Execute all code cells.
+
+- To test different experiments or datasets, modify the dataset loading section and/or adjust the hyperparameters as needed.
