@@ -7,9 +7,9 @@ Each notebook corresponds to the final experimental settings, as presented in th
 ## Experiments Overview:
 - Experiment 1: Uses the architecture from GraphGPS.
 
-- Experiment 2: Implements the MLP architecture.
+- Experiment 2: Implements the concatenation architecture.
 
-- Experiment 3: Features the architecture with cross-attention.
+- Experiment 3: Implements the architecture with cross-attention.
 
 
 ## Folder Structure:
