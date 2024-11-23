@@ -6,7 +6,9 @@ Each notebook corresponds to the final experimental settings, as presented in th
 
 ## Experiments Overview:
 Experiment 1: Uses the architecture from GraphGPS.
+
 Experiment 2: Implements the MLP architecture.
+
 Experiment 3: Features the architecture with cross-attention.
 
 
